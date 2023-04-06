@@ -1,4 +1,4 @@
-# de.mhaid.brother
+# Brother for Homey
 
 __App is still in Beta__
 
